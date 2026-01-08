@@ -5,7 +5,7 @@
 Monarch is not a regular Pomodoro App.
 Built as a **Self-Regulation Behavioural Engine** A behavioral control system designed to train discipline, prevent burnout, and enforce focus cycles through rule-based authority — not motivation.
 
---
+---
 
 ## Core Philosophy
 
@@ -27,7 +27,7 @@ Instead, it enforces:
 This system does not ask.
 It decides.
 
---
+---
 
 ## Architecture
 
@@ -43,7 +43,7 @@ Penalty Engine
         ↓
 Monarch UI (Read-only)
 
---
+---
 
 ## Core Module
 
@@ -122,13 +122,13 @@ Displays:
 UI does not command.
 UI obeys.
 
--- 
+---
 
 # License
 
 MIT License — free to use, modify, and extend.
 
---
+---
 
 # About Me
 
