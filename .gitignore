@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Local config & secrets
+.env
+config.json
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Audio temp / render cache
+assets/cache/
+assets/temp/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# SQLite / local state vault (future)
+*.db
+vault.db
+
+# Test output
+coverage/
+htmlcov/
